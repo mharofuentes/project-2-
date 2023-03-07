@@ -1,19 +1,19 @@
 /*style for navigation bar*/ 
-#nav{
-    border: 2px solid #ccc;
+#nav {
+    border: 2px solid #4B0082;
     border-width: 3px 0;
 	background-color: #FFF8DC;
     margin: 1;
     padding: 0;
     text-align: center;
 }
-#nav a{
+#nav a {
 	  font-size: 20px;
 	  text-align: center;
 	  color: #9400D3;
 	  padding: 22px;
 }
-#nav a:hover{
-  background-color: #DDA0DD;
-  color:#FFF0F5;
+#nav a:hover {
+	background-color: #DDA0DD;
+	color: #FFF0F5;
 }
