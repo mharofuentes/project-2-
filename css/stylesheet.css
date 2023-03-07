@@ -1,1 +1,8 @@
-
+.nav{
+    border:2px solid #ccc;
+    border-width:3px 0;
+	background-color:#FFF8DC;
+    margin:1;
+    padding:0;
+    text-align:center;
+}
