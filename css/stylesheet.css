@@ -13,7 +13,7 @@
 	  color: #9400D3;
 	  padding: 22px;
 }
-nav a:hover {
+#nav a:hover{
   background-color: #DDA0DD;
   color:#FFF0F5;
 }
