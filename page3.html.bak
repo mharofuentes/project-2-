@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <title>Cat Care</title>
+ <link rel="stylesheet" href="css/normalizesheet.css">
  <link rel="stylesheet" href="css/stylesheet.css">
- <style>import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap')</style>
+ <link href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
@@ -51,7 +52,6 @@
      <p>Litter box should always remain in the same spot and should be put in a quiet space.</p>
 	 </section>
 	 <p>Youtube video "Everything You Need for Your Cat | 10 Cat Essentials for New Guardians" </p>
-<iframe width="600" height="800" src="https://www.youtube.com/embed/KHmrh6eQ6EQ" title="YouTube video about cat necessities " </iframe>	  <footer>
-   </footer>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KHmrh6eQ6EQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </footer>
 </body>
 </html>
