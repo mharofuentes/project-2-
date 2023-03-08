@@ -53,11 +53,16 @@ p {
 }
 .Div2 {
 	border: 12px ;
-	background-color: #9370DB;    
+	background-color: ##DDA0DD;    
 	text-align: center;
 }
 
-.Div3{
-	background-image: url("images/forest.jpg");
+.Div3 {
+	background-image: src="images/forest.jpg";
 	background-position: center;
+}
+.Div4 {
+	border: 12px #008080;
+	background-color: #87CEEB;    
+	text-align: center;
 }
