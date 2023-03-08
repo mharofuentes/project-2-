@@ -1,20 +1,16 @@
 /*style for navigation bar*/ 
 .nav{
-    border:2px solid #4B0082;
-    border-width:3px 0;
-	background-color:#FFF8DC;
-    margin:1;
-    padding:0;
+    border-color:#9370DB;
+    border-width:6px ;
+	background-color:#FFF0F5;
+    margin:10px;
     text-align:center;
-    border: 2px solid #9370DB;
-    border-width: 3px 0;
 }
 .nav a {
-	  font-size: 20px;
+	  font-size: 15px;
 	  float: left;
 	  text-align: center;
 	  color: #9400D3;
-	  padding: 22px;
 }
 .nav a:hover {
 	background-color: #DDA0DD;
