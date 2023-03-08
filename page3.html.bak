@@ -7,12 +7,21 @@
 </head>
 <body>
   <header>
+<<<<<<< HEAD
       <ul class="nav">
+=======
+    <nav>
+      <ul>
+>>>>>>> parent of c98657b (added style sheet to html)
         <li><a href="index.html">Historic Places in Illinois</a></li>
         <li><a href="resume.html">Resume</a></li>
         <li><a href="page3.html">Cat Care</a></li>
       </ul>
+<<<<<<< HEAD
    </div>
+=======
+    </nav>
+>>>>>>> parent of c98657b (added style sheet to html)
     </header>
 	<section>
      <h1>Basic Cat Care</h1>
