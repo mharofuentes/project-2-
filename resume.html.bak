@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/stylesheet.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap">
 </head>
-<body>
+<body class="resume">
   <header>
       <ul class="nav">
         <li><a href="index.html">Historic Places in Illinois</a></li>
@@ -48,6 +48,6 @@
 	    <li> City Colleges of Chicago, Chicago, IL </li>
 	    <li> Summer of 2018,2019,2020</li>
 	    <li>Tutored and guided middle school age kids </li>
-	  </ul>
- </body>
+	  </ul>	  
+</body>
 </html>

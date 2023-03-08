@@ -3,6 +3,13 @@ body {
 	background-color: #90EE90;
 }
 
+body.resume {
+	background-color: teal;
+}
+body.index {
+	background-image: url("images/forest.jpg");
+	background-position: center;
+}
 h1, h2 {
 	font-family: 'Crete Round', serif;
 	font-style: normal;
@@ -20,7 +27,7 @@ h3 {
 p {
 	font-family: Arial, sans-serif;
 	color: #191970;
-	font-size: px;
+	font-size: 20px;
 }
 /*background image for index page */ 
 

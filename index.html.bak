@@ -7,8 +7,7 @@
   <link rel="stylesheet" href="css/stylesheet.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap">
 </head>
-<body>
-<div class="Div3">
+<body class="index">
   <header>
       <ul class="nav">
         <li><a href="index.html">Historic Places in Illinois</a></li>
