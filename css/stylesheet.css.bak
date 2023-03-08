@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-/*style for navigation bar*/ 
-.nav {
-    border: 2px solid #4B0082;
-    border-width: 3px 0;
-	background-color: #FFF8DC;
-    margin: 1px;
-    padding: 0;
-    text-align: center;
-=======
 .nav{
     border:2px solid #ccc;
     border-width:3px 0;
@@ -15,11 +5,10 @@
     margin:1;
     padding:0;
     text-align:center;
->>>>>>> parent of c98657b (added style sheet to html)
-}
-.nav a {
-	  font-size: 20px;
-	  text-align: center;
-	  color: #9400D3;
-	  padding: 22px;
+    border: 2px solid #ccc;
+    border-width: 3px 0;
+	background-color: #FFF8DC;
+    margin: 1;
+    padding: 0;
+    text-align: center;
 }
