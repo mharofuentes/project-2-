@@ -11,9 +11,14 @@
 	color: #008080;
 }
 
-.h2, .p{
+.h2{
 	font-family: Arial, sans-serif;
 	color: #2F4F4F;
+}
+
+.p{
+	font-family: Arial, sans-serif;
+	color: #191970;
 }
 /*background image for index page */ 
 

@@ -1,9 +1,9 @@
 /*background color*/ 
-.body {
+body {
 	background-color: #90EE90;
 }
 
-.h1{
+h1 {
 	font-family: 'Crete Round', serif;
 	font-style: normal;
 	font-size: 30px;
@@ -11,12 +11,12 @@
 	color: #008080;
 }
 
-.h2{
+h2, h3 {
 	font-family: Arial, sans-serif;
 	color: #2F4F4F;
 }
 
-.p{
+p {
 	font-family: Arial, sans-serif;
 	color: #191970;
 }
