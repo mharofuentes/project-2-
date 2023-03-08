@@ -39,6 +39,7 @@ p {
 	background-color: #DDA0DD;
 	color: #FFF0F5;
 }
+
 .img {
 	width: 500px;
 }
@@ -46,16 +47,15 @@ p {
 .Div {	
 	border: 8px plum;
 	background-color: #FFFAF0;    
-	opacity: 0.5;
 	text-align: center;
 }
 .Div2 {
 	border: 12px MediumSeaGreen;
 	background-color: #9370DB;    
-    opacity: 0.5;
 	text-align: center;
 }
-background{
+
+.Div3{
 	background-image: url("images/forest.jpg");
 	background-position: center;
 }
