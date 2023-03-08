@@ -1,3 +1,7 @@
+/*background color*/ 
+body {
+	background-color: #90EE90;
+}
 /*style for navigation bar*/ 
 .nav{
     background-color: #FFF0F5;
@@ -7,7 +11,7 @@
 	  font-size: 18px;
 	  text-align: center;
 	  color: #9400D3;
-	  padding: 12px;
+	  padding: 10px;
 }
 .nav a:hover {
 	background-color: #DDA0DD;
