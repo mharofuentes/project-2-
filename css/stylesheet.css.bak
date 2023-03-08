@@ -39,8 +39,12 @@ p {
 	background-color: #DDA0DD;
 	color: #FFF0F5;
 }
-index.img{
+.index.img {
 	width: 500px;
 }
 
-
+.div {	
+border: 8px #FFFAF0;
+  background-color: #DDA0DD;    
+  text-align: center;
+}
