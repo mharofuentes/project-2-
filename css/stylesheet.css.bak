@@ -3,7 +3,7 @@ body {
 	background-color: #90EE90;
 }
 
-h1 {
+h1, h2 {
 	font-family: 'Crete Round', serif;
 	font-style: normal;
 	font-size: 30px;
@@ -11,7 +11,7 @@ h1 {
 	color: #008080;
 }
 
-h2, h3 {
+h3 {
 	font-family: Arial, sans-serif;
 	color: #2F4F4F;
 }
@@ -44,7 +44,18 @@ p {
 }
 
 .Div {	
-	border: 8px #FFFAF0;
-	background-color: #DDA0DD;    
+	border: 8px plum;
+	background-color: #FFFAF0;    
+	opacity: 0.5;
 	text-align: center;
+}
+.Div2 {
+	border: 12px MediumSeaGreen;
+	background-color: #9370DB;    
+    opacity: 0.5;
+	text-align: center;
+}
+.backgorund {
+	background-image: url("images/forest.jpg");
+	background-position: center;
 }
