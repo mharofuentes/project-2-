@@ -5,16 +5,15 @@
 
 .h1{
 	font-family: 'Crete Round', serif;
-	font-weight: 500;
 	font-style: normal;
 	font-size: 30px;
 	line-height: 1.15;
-	color:#008080
+	color: #008080;
 }
 
 .h2, .p{
 	font-family: Arial, sans-serif;
-	color:#2F4F4F;
+	color: #2F4F4F;
 }
 /*background image for index page */ 
 
