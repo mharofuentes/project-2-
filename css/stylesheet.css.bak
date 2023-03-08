@@ -58,11 +58,11 @@ p {
 }
 
 .Div3 {
-	background-image: src="images/forest.jpg";
+	background-image: url("images/forest.jpg");
 	background-position: center;
 }
 .Div4 {
 	border: 12px #008080;
-	background-color: #87CEEB;    
+	background-color: #F5F5F5;    
 	text-align: center;
 }
