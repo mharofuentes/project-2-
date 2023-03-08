@@ -18,7 +18,7 @@
 }
 /*background image for index page */ 
 .body-style{
-			background-image:img src="images/forest.jpg";
+			background-image: url("images/forest.jpg");
 			background-color: transparent;
 }
 	
