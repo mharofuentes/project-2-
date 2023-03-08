@@ -5,7 +5,7 @@
   <title>Cat Care</title>
  <link rel="stylesheet" href="css/normalizesheet.css">
  <link rel="stylesheet" href="css/stylesheet.css">
- <link href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap">
 </head>
 <body>
   <header>
@@ -16,7 +16,7 @@
       </ul>
     </header>
 	<section>
-     <h1>Basic Cat Care</h1>
+     <h1>llBasic Cat Care</h1>
      <h2>Nutrition</h2>
 	 <img src="images/cateating.jpg" alt="Cat Eating" >
      <p>A cats's diet should be rich with taurine, ammino acids, high protein, and healthy fats. </p>
