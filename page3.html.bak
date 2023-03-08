@@ -18,7 +18,7 @@
 	<section>
      <h1>Basic Cat Care</h1>
      <h2>Nutrition</h2>
-	 <img class="index.img" src="images/cateating.jpg" alt="Cat Eating" >
+	 <img class="img" src="images/cateating.jpg" alt="Cat Eating" >
      <p>A cats's diet should be rich with taurine, ammino acids, high protein, and healthy fats. </p>
      <p>Raw meat, milk, and canned tuna should never be given, as it can be toxic. </p>
      <p>Treats should be limited to less than 15% of their total daily intake.</p>
@@ -27,7 +27,7 @@
      </section>
      <section>
      <h2>Exercise</h2>
-	 <img class="index.img" src="images/cat-playing.jpg" alt="Activity is important">
+	 <img class="img" src="images/cat-playing.jpg" alt="Activity is important">
      <p>You should play with your cat for at least 15 min a day. </p>
 	 <p>Give them toys with feathers and strings and lasers. They like to use their hunting skills. </p>
 	 <p>Playing is important to keep their weight healthy and mental wellbeing sharp. </P>
@@ -46,7 +46,7 @@
 	 </section>
      <section>
 	 <h2>Housing </h2>
-	 <img class="index.img"src="images/sleepingcat.jpeg" alt="A quiet cozy place is a must!" >
+	 <img class="img"src="images/sleepingcat.jpeg" alt="A quiet cozy place is a must!" >
 	 <p>Outdoor cats can be run over, eaten by wild animals, catch a disease, or get fleas.  </p>
 	 <p>Cats like a blanket and soft bedding that is bigger than them. </p>
      <p>Litter box should always remain in the same spot and should be put in a quiet space.</p>
