@@ -1,5 +1,6 @@
+/*style for navigation bar*/ 
 .nav{
-    border:2px solid #ccc;
+    border:2px solid #4B0082;
     border-width:3px 0;
 	background-color:#FFF8DC;
     margin:1;
