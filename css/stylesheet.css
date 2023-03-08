@@ -1,15 +1,13 @@
 /*style for navigation bar*/ 
 .nav{
-    background-color: #FFF8DC;
-	border:4px solid  #4B0082;
-    border-width:1px 0;
-    text-align:center;
+    background-color: #FFF0F5;
+    text-align: center;
 }
 .nav a {
-	  font-size: 20px;
+	  font-size: 18px;
 	  text-align: center;
 	  color: #9400D3;
-	  padding: 22px;
+	  padding: 12px;
 }
 .nav a:hover {
 	background-color: #DDA0DD;
