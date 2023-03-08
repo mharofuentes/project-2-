@@ -5,7 +5,7 @@
   <title>State Parks in Illinois </title>
   <link rel="stylesheet" href="css/normalizesheet.css">
   <link rel="stylesheet" href="css/stylesheet.css">
-  <style>import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap')</style>
+  <link href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap" rel="stylesheet">
 </head>
 <body class="body-style">
   <header>
