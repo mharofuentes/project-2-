@@ -20,7 +20,7 @@ h3 {
 p {
 	font-family: Arial, sans-serif;
 	color: #191970;
-	font-size: 20px;
+	font-size: px;
 }
 /*background image for index page */ 
 
@@ -53,16 +53,11 @@ p {
 }
 .Div2 {
 	border: 12px ;
-	background-color: ##DDA0DD;    
+	background-color: #9370DB;    
 	text-align: center;
 }
 
-.Div3 {
+.Div3{
 	background-image: url("images/forest.jpg");
 	background-position: center;
-}
-.Div4 {
-	border: 12px #008080;
-	background-color: #F5F5F5;    
-	text-align: center;
 }
