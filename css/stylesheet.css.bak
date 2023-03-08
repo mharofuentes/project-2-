@@ -4,8 +4,9 @@ body {
 }
 
 body.resume {
-	background-color: teal;
+	background-color: #F0F8FF;
 }
+/*background image for index page */ 
 body.index {
 	background-image: url("images/forest.jpg");
 	background-position: center;
@@ -29,7 +30,6 @@ p {
 	color: #191970;
 	font-size: 20px;
 }
-/*background image for index page */ 
 
 	
 /*style for navigation bar*/ 
@@ -64,7 +64,3 @@ p {
 	text-align: center;
 }
 
-.Div3{
-	background-image: url("images/forest.jpg");
-	background-position: center;
-}
