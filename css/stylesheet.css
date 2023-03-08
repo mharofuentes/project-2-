@@ -6,15 +6,12 @@
     margin:1;
     padding:0;
     text-align:center;
-    border: 2px solid #ccc;
+    border: 2px solid #9370DB;
     border-width: 3px 0;
-	background-color: #FFF8DC;
-    margin: 1;
-    padding: 0;
-    text-align: center;
 }
 .nav a {
 	  font-size: 20px;
+	  float: left;
 	  text-align: center;
 	  color: #9400D3;
 	  padding: 22px;

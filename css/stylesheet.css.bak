@@ -13,3 +13,14 @@
     padding: 0;
     text-align: center;
 }
+.nav a {
+	  font-size: 20px;
+	  text-align: center;
+	  color: #9400D3;
+	  padding: 22px;
+}
+.nav a:hover {
+	background-color: #DDA0DD;
+	color: #FFF0F5;
+}
+
