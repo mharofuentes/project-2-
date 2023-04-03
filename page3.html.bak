@@ -9,7 +9,7 @@
 </head>
 <body>
   <header>
-      <div class="topnav-centered">
+      <ul class="nav">
         <li><a href="index.html">Historic Places in Illinois</a></li>
         <li><a href="resume.html">Resume</a></li>
         <li><a href="page3.html">Cat Care</a></li>
@@ -18,7 +18,7 @@
 	<section>
      <h1>Basic Cat Care</h1>
      <h2>Nutrition</h2>
-	 <img class="img" src="images/cateating.jpg" alt="Cat Eating" >
+	 <img class="img" src="cateating.jpg" alt="Cat Eating" >
      <p>A cats's diet should be rich with taurine, ammino acids, high protein, and healthy fats. </p>
      <p>Raw meat, milk, and canned tuna should never be given, as it can be toxic. </p>
      <p>Treats should be limited to less than 15% of their total daily intake.</p>

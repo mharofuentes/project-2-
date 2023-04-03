@@ -34,16 +34,17 @@ p {
 
 	
 /*style for navigation bar*/ 
-.topnav-centered {
-	float: left;
+.nav {
     background-color: #FFFAF0;
-    text-align: center;
+    overflow: hidden;
 	list-style: none
 }
 .nav a {
+	  float: left;
 	  font-size: 18px;
 	  text-align: center;
 	  color: #9400D3;
+	  text-align: center;
 	  padding: 10px;
 }
 .nav a:hover {
@@ -51,7 +52,6 @@ p {
 	color: #FFF0F5;
 	
 }
-
 .img {
 	width: 500px;
 }
