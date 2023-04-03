@@ -48,8 +48,7 @@ p {
 .nav a:hover {
 	background-color: #DDA0DD;
 	color: #FFF0F5;
-	float: left;
-	text-align: center;
+	
 }
 
 .img {

@@ -35,6 +35,7 @@ p {
 	
 /*style for navigation bar*/ 
 .nav {
+	float: left;
     background-color: #FFFAF0;
     text-align: center;
 	list-style: none
