@@ -48,10 +48,12 @@ p {
 	  text-align: center;
 	  color: #9400D3;
 	  padding: 10px;
+	  text-decoration: none;
 }
 .nav a:hover {
 	background-color: #DDA0DD;
 	color: #FFF0F5;
+	text-decoration: none;
 	
 }
 .img {
