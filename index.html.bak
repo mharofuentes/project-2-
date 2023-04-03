@@ -9,7 +9,7 @@
 </head>
 <body class="index">
   <header>
-      <ul class="nav">
+      <div class="topnav-centered">
         <li><a href="index.html">Historic Places in Illinois</a></li>
         <li><a href="resume.html">Resume</a></li>
         <li><a href="page3.html">Cat Care</a></li>
@@ -73,6 +73,5 @@
        <p>Interesting Fact: Commemorates Abraham Lincoln's march through the area in 1832 </p>
 	  </div>
 	   </section>
-</div>
 </body >
 </html>
