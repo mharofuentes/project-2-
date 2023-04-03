@@ -34,7 +34,7 @@ p {
 
 	
 /*style for navigation bar*/ 
-.nav {
+.topnav-centered {
 	float: left;
     background-color: #FFFAF0;
     text-align: center;
