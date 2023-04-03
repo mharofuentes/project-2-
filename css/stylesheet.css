@@ -40,7 +40,7 @@ p {
 	list-style: none
 }
 .nav a {
-	  float: left;
+	  float: none;
 	  font-size: 18px;
 	  text-align: center;
 	  color: #9400D3;

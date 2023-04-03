@@ -44,7 +44,6 @@ p {
 	  font-size: 18px;
 	  text-align: center;
 	  color: #9400D3;
-	  text-align: center;
 	  padding: 10px;
 }
 .nav a:hover {
