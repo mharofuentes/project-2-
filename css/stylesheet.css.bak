@@ -18,6 +18,7 @@ h1, h2 {
 	font-size: 40px;
 	line-height: 1.15;
 	color: #008080;
+	text-align: center;
 }
 
 h3 {
@@ -42,7 +43,7 @@ p {
 }
 .nav a {
 	  float: none;
-	  font-size: 18px;
+	  font-size: 27px;
 	  text-align: center;
 	  color: #9400D3;
 	  padding: 10px;
@@ -57,6 +58,19 @@ p {
 }
 .img {
 	width: 500px;
+	float: right;
+}
+.img2 {
+	width: 350px;
+	float: inline-start;
+}
+.img3 {
+	width: 350px;
+	float: float: inline-end;;
+}
+.img4 {
+	width: 500px;
+	float: inline-start;
 }
 
 .Div {	

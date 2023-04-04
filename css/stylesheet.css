@@ -43,7 +43,7 @@ p {
 }
 .nav a {
 	  float: none;
-	  font-size: 18px;
+	  font-size: 27px;
 	  text-align: center;
 	  color: #9400D3;
 	  padding: 10px;
@@ -61,15 +61,21 @@ p {
 	float: right;
 }
 .img2 {
-	width: 500px;
+ width: 100%;
+ max-width: 250px;
+  height: auto;
 	float: inline-start;
 }
 .img3 {
-	width: 500px;
+	width: 100%;
+ max-width: 250px;
+  height: auto;
 	float: float: inline-end;;
 }
 .img4 {
-	width: 500px;
+	width: 100%;
+ max-width: 250px;
+  height: auto;
 	float: inline-start;
 }
 
@@ -80,7 +86,7 @@ p {
 }
 .Div2 {
 	border: 12px ;
-	background-color: #9370DB;    
+	background-color: ##E6E6FA;    
 	text-align: center;
 }
 
