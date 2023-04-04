@@ -37,7 +37,7 @@ p {
 .nav {
     background-color: #FFFAF0;
     overflow: hidden;
-	list-style: none
+	text-decoration: none; 
 }
 .nav a {
 	  float: none;
