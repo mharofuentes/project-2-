@@ -38,6 +38,7 @@ p {
     background-color: #FFFAF0;
     overflow: hidden;
 	text-decoration: none; 
+	text-align: center;
 }
 .nav a {
 	  float: none;
@@ -46,6 +47,7 @@ p {
 	  color: #9400D3;
 	  padding: 10px;
 	  text-decoration: none;
+	  display: inline-block;
 }
 .nav a:hover {
 	background-color: #DDA0DD;

@@ -18,6 +18,7 @@ h1, h2 {
 	font-size: 40px;
 	line-height: 1.15;
 	color: #008080;
+	text-align: center;
 }
 
 h3 {
@@ -57,6 +58,19 @@ p {
 }
 .img {
 	width: 500px;
+	float: right;
+}
+.img2 {
+	width: 500px;
+	float: inline-start;
+}
+.img3 {
+	width: 500px;
+	float: float: inline-end;;
+}
+.img4 {
+	width: 500px;
+	float: inline-start;
 }
 
 .Div {	
