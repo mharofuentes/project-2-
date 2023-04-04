@@ -62,16 +62,19 @@ p {
 }
 .img2 {
  width: 100%;
+ max-width: 400px;
   height: auto;
 	float: inline-start;
 }
 .img3 {
 	width: 100%;
+	max-width: 400px;
   height: auto;
-	float: float: inline-end;;
+	float: inline-end;
 }
 .img4 {
 	width: 100%;
+	max-width: 400px;
   height: auto;
 	float: inline-start;
 }
@@ -83,7 +86,8 @@ p {
 }
 .Div2 {
 	border: 12px ;
-	background-color: #E6E6FA;    
+	background-color: #E6E6FA #D5B4FD
+;    
 	text-align: center;
 }
 
