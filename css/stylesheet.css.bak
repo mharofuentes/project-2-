@@ -8,7 +8,7 @@ body.resume {
 }
 /*background image for index page */ 
 body.index {
-	background-image: url("images/forest.jpg");
+	background-image: url("/images/forest.jpg");
 	background-color: #228B22;
 	background-position: center;
 }
@@ -31,6 +31,7 @@ p {
 	font-family: Arial, sans-serif;
 	color: #191970;
 	font-size: 30px;
+	text-align: center;
 }
 
 	
@@ -62,21 +63,21 @@ p {
 }
 .img2 {
  width: 100%;
- max-width: 400px;
+ max-width: 900px;
   height: auto;
-	float: inline-start;
+	float: left;
 }
 .img3 {
 	width: 100%;
-	max-width: 400px;
+	max-width: 900px;
   height: auto;
-	float: inline-end;
+	float: right;
 }
 .img4 {
 	width: 100%;
-	max-width: 400px;
+	max-width: 900px;
   height: auto;
-	float: inline-start;
+	float: left;
 }
 
 .Div {	
@@ -86,7 +87,7 @@ p {
 }
 .Div2 {
 	border: 12px ;
-	background-color: #E6E6FA #D5B4FD
+	background-color:#D5B4FD
 ;    
 	text-align: center;
 }

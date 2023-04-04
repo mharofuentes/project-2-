@@ -8,7 +8,7 @@ body.resume {
 }
 /*background image for index page */ 
 body.index {
-	background-image: url("images/forest.jpg");
+	background-image: url("/images/forest.jpg");
 	background-color: #228B22;
 	background-position: center;
 }
@@ -33,7 +33,10 @@ p {
 	font-size: 30px;
 	text-align: center;
 }
-
+li {font-family: Arial, sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
 	
 /*style for navigation bar*/ 
 .nav {
@@ -87,8 +90,7 @@ p {
 }
 .Div2 {
 	border: 12px ;
-	background-color:#D5B4FD
-;    
+	background-color:#D5B4FD;    
 	text-align: center;
 }
 
